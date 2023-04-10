@@ -1,6 +1,7 @@
 # adaptive_ui_sample
 
-A new Flutter project.
+This is project demostrate how to build adaptive widget that adapt's to Platform Information Architecture(IA)s for Android and iOS Platforms.
+You can read more about this [here](https://docs.google.com/document/d/1gATEHDWHUU4p-m1zu_2dhQiDgfXkx9y4_DE-iWaTlms/edit?usp=sharing)
 
 ## Getting Started
 
